@@ -1,7 +1,7 @@
 # EBSD_Data_example
 Set of EBSD scans in .ctf format to test MTexTools functionality issues
 
-The repository contains .ctf files exported from Bruker ESPRIT. They correspond to a large area map acquired in 10 acquisitions, I believe arranged in a 2x5 grid the correspondence of the files to the position in the grid is unknown:
+The repository contains .ctf files exported from Bruker ESPRIT. They correspond to a large area map acquired in 10 acquisitions, I believe arranged in a 2x5 grid. The correspondence of the files to the position in the grid is unknown:
 
 The crystal symmetry is:
 
