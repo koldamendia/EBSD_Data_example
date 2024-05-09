@@ -1,18 +1,7 @@
 # EBSD_Data_example
 Set of EBSD scans in .ctf format to test MTexTools functionality issues
 
-The repository contains .ctf files exported from Bruker ESPRIT. They correspond to a large area map acquired in 10 acquisitions, arranged in a 2x5 grid (ixj). Where the correspondence of the files to the position in the grid is as follows:
-
-R1_1 (1,1)
-R1_2 (1,2)
-R1_3 (1,3)
-R1_4 (1,4)
-R1_5 (1,5)
-R1_6 (2,5)
-R1_7 (2,4)
-R1_8 (2,3)
-R1_9 (2,2)
-R1_10 (2,1)
+The repository contains .ctf files exported from Bruker ESPRIT. They correspond to a large area map acquired in 10 acquisitions, I believe arranged in a 2x5 grid the correspondence of the files to the position in the grid is unknown:
 
 The crystal symmetry is:
 
